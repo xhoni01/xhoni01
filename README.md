@@ -11,6 +11,3 @@
 [![website](https://github.com/xhoni01/xhoni/blob/main/facebook.png)](https://www.facebook.com/xhoni.shega.5)
 &nbsp;&nbsp;
 [![website](https://github.com/xhoni01/xhoni/blob/main/linkedin.png)](https://www.linkedin.com/in/xhoni-shega-ba5a991a1/)
-&nbsp;&nbsp;
-[![website](https://github.com/xhoni01/xhoni/blob/main/whatsapp.png)](https://wa.me/00355692935883)
--Phone number: +355692935883
