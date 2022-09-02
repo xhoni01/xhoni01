@@ -8,6 +8,6 @@
 
 ### Connect with me:
 
-[![website](https://github.com/xhoni01/xhoni/blob/main/facebook.png)](https://www.facebook.com/xhoni.shega.5)
+[![website](facebook (1).png)](https://www.facebook.com/xhoni.shega.5)
 &nbsp;&nbsp;
-[![website](https://github.com/xhoni01/xhoni/blob/main/linkedin.png)](https://www.linkedin.com/in/xhoni-shega-ba5a991a1/)
+[![website](linkedin.png)](https://www.linkedin.com/in/xhoni-shega-ba5a991a1/)
