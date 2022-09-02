@@ -6,7 +6,7 @@
 - ⚡ Open for projects and collaborations, and eager to learn
   -Very good knowledge on Java, Python, JavaScript, SQL, HTML, CSS
 
-### Connect with me:
+### Contact me:
 
 [![website](facebook.png)](https://www.facebook.com/xhoni.shega.5)
 &nbsp;&nbsp;
