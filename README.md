@@ -1,8 +1,8 @@
 # Hi there, I'm Xhoni a Software Developer 👋
 
 - I'm currently working as a software developer at FIRST System Integrator & Engineering Solution
-- 🌱 I’m currently learning Spring boot and node js
-- 🥅 2022 Goals: To learn Spring boot, and node js
+- 🌱 I’m currently learning IAC and node js
+- 🥅 2022 Goals: To learn IAC, and node js
 - ⚡ Open for projects and collaborations, and eager to learn
   -Very good knowledge on Java, Python, JavaScript, SQL, HTML, CSS
 
